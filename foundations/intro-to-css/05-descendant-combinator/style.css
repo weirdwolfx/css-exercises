@@ -1,0 +1,13 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+    You can also use type selectors instead of class selectors 
+        OR
+    a combination of class and type selectors
+
+*/
